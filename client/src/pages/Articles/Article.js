@@ -12,8 +12,8 @@ class Articles extends React.Component {
       this.state = {
         articles: [],
         topic: "",
-        startYear: "2017-06-01",
-        endYear: "2018-01-10"
+        startYear: "2018-01-01",
+        endYear: "2018-02-10"
       }
     }
 
@@ -98,7 +98,7 @@ class Articles extends React.Component {
               articles
             });
           } else {
-            alert("Sorry, no articles appeared from your search parameters. Please try again.");
+            alert("Sorry, no articles appeared from your search. Please try again.");
           }
         })
         .catch(function (error) {

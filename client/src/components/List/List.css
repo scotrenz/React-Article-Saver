@@ -20,23 +20,19 @@
   cursor: pointer;
 }
 
-.list-overflow-container li a {
+.list-overflow-container li h3 {
   color: #2A878C;
 }
 
-.list-overflow-container li:first-child {
+/* .list-overflow-container li:first-child {
   border-top: none;
 }
 
 .list-overflow-container li:last-child {
   border-bottom: none;
-}
+} */
 
 .panel-default>.panel-heading {
-  background-color:#274046;
-  background: #274046;
+  border-bottom: black .5px;
 }
 
-h2 {
-  color: #e20404;
-}
