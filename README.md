@@ -8,8 +8,7 @@ https://frozen-thicket-67612.herokuapp.com/savedArticles
 HTML, CSS, React, Javascript, NodeJS, MongoDB
 
 ## Instalation
-Yarn install on both server and client side
-Yarn Start
+Yarn install on both server and client side, Yarn Start
 
 ## Authors
 Scot Renz
