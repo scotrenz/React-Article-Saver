@@ -15,6 +15,4 @@ Yarn Start
 Scot Renz
 
 ## What I learned
-This app helped me understand the architecture and strategic choices that are required when making a React app. Reusability and compartmentalization are key when it comes to building a robust React app, especially when your app needs to scale.
-
-[NYT-SPA](https://nyt-spa-react.herokuapp.com/)
+This app helped me understand the structural strategies that are needed when building a React app for both scalabilty and reusabilty. 
